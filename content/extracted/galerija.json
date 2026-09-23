@@ -1,0 +1,35 @@
+{
+ "slug": "galerija",
+ "meta": {
+  "title": "Kozmetički Salon Emilly - Galerija Naših Tretmana",
+  "description": "Posetite našu galeriju i otkrijte kako izgledaju profesionalni tretmani u kozmetičkom salonu Emilly u Beogradu."
+ },
+ "headerTitle": "Galerija",
+ "faq": [],
+ "blocks": [
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

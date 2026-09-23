@@ -1,0 +1,180 @@
+{
+ "slug": "masaze",
+ "meta": {
+  "title": "Masaže Beograd - Salon Emilly",
+  "description": "Masaže tela u Beogradu poboljšavaju cirkulaciju, oslobađaju napetost i podstiču opšte zdravlje. Posetite kozmetički salon Emilly za potpuni užitak."
+ },
+ "headerTitle": "Masaže u Beogradu",
+ "faq": [
+  {
+   "q": "Koliko traje masaža?",
+   "a": "Trajanje zavisi od vrste masaže koju odaberete. U ponudi su tretmani različitog trajanja, a prilikom zakazivanja možete dobiti informacije o dostupnim opcijama."
+  },
+  {
+   "q": "Koju masažu odabrati za opuštanje?",
+   "a": "Za opuštanje i smanjenje svakodnevne napetosti relax masaža može biti dobar izbor. Ukoliko želite intenzivniji tretman određenih mišićnih regija, možete razmotriti terapeutsku ili sportsku masažu."
+  },
+  {
+   "q": "Kolika je cena masaže?",
+   "a": "Cena zavisi od vrste i trajanja odabrane masaže. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Šta su masaže?"
+  },
+  {
+   "t": "p",
+   "text": "Masaže u Beogradu predstavljaju profesionalne tretmane koji različitim tehnikama deluju na mišiće i meka tkiva, sa ciljem opuštanja tela, smanjenja osećaja napetosti i poboljšanja cirkulacije. U zavisnosti od odabrane tehnike, masaža može biti nežna i relaksirajuća ili intenzivnija, sa fokusom na određene delove tela."
+  },
+  {
+   "t": "p",
+   "text": "U Salonu Emilly dostupne su različite vrste masaža koje se prilagođavaju potrebama i željama klijenta. U ponudi su relax, terapeutska i sportska masaža, masaža leđa, masaža vulkanskim kamenjem, Pinda Sweda i Emilly masaža, pa se tretman može odabrati u skladu sa željenim efektom i nivoom opuštanja."
+  },
+  {
+   "t": "h2",
+   "text": "Kako izgleda masaža?"
+  },
+  {
+   "t": "p",
+   "text": "Masaža počinje pripremom za tretman i dogovorom o regijama na koje je potrebno obratiti posebnu pažnju. Nakon toga se odabrana tehnika prilagođava željenom intenzitetu, a tretman može obuhvatiti celo telo ili određene regije, poput leđa, vrata i ramenog pojasa."
+  },
+  {
+   "t": "p",
+   "text": "U zavisnosti od potreba, možete odabrati različite vrste masaža. Za oblikovanje i negu tela dostupne su i [madero masaže](/madero-masaze/), dok se za ciljanu negu regija sa izraženim celulitom mogu razmotriti i [anticelulit masaže](/anticelulit-masaze/)."
+  },
+  {
+   "t": "h2",
+   "text": "Kome su namenjene masaže?"
+  },
+  {
+   "t": "p",
+   "text": "Masaže mogu odgovarati osobama koje žele da se opuste, oslobode osećaja mišićne napetosti ili posvete više pažnje nezi i relaksaciji tela. Mogu biti dobar izbor nakon napornog radnog dana, fizičke aktivnosti ili perioda pojačanog stresa."
+  },
+  {
+   "t": "p",
+   "text": "Izbor odgovarajuće masaže zavisi od individualnih potreba i željenog efekta. Relax masaža pogodna je za opuštanje, dok se terapeutska ili sportska masaža mogu odabrati kada je potreban intenzivniji pristup određenim mišićnim regijama."
+  },
+  {
+   "t": "h2",
+   "text": "Kakve rezultate možete očekivati?"
+  },
+  {
+   "t": "p",
+   "text": "Nakon masaže možete očekivati prijatan osećaj opuštenosti i rasterećenja tela. U zavisnosti od vrste tretmana, masaža može doprineti smanjenju osećaja mišićne napetosti, boljoj cirkulaciji i prijatnijem osećaju nakon tretmana."
+  },
+  {
+   "t": "p",
+   "text": "U okviru ponude našeg [kozmetičkog salona na Voždovcu](/kozmeticki-salon-vozdovac/) možete izabrati masažu prema svojim potrebama i željenom intenzitetu. Za pregled kompletne ponude dostupnih tretmana pogledajte [kozmetički salon Beograd](/)."
+  },
+  {
+   "t": "h3",
+   "text": "Masaže u ponudi:"
+  },
+  {
+   "t": "price-title",
+   "text": "Relax masaža 60 minuta"
+  },
+  {
+   "t": "price",
+   "text": "4000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Terapeutska masaža 60 minuta"
+  },
+  {
+   "t": "price",
+   "text": "4500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Terapeutska masaža leđa 30 minuta"
+  },
+  {
+   "t": "price",
+   "text": "3300 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Sportska masaža 45 minuta"
+  },
+  {
+   "t": "price",
+   "text": "5000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Masaža vulkanskim kamenjem 60 minuta"
+  },
+  {
+   "t": "price",
+   "text": "4500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Masaža vulkanskim kamenjem leđa 30 minuta"
+  },
+  {
+   "t": "price",
+   "text": "3500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Pinda sweda masaža"
+  },
+  {
+   "t": "price",
+   "text": "5000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Emilly masaža 80 minuta"
+  },
+  {
+   "t": "price",
+   "text": "6000 rsd"
+  },
+  {
+   "t": "h2",
+   "text": "Često postavljana pitanja"
+  },
+  {
+   "t": "p",
+   "text": "Trajanje zavisi od vrste masaže koju odaberete. U ponudi su tretmani različitog trajanja, a prilikom zakazivanja možete dobiti informacije o dostupnim opcijama."
+  },
+  {
+   "t": "p",
+   "text": "Za opuštanje i smanjenje svakodnevne napetosti relax masaža može biti dobar izbor. Ukoliko želite intenzivniji tretman određenih mišićnih regija, možete razmotriti terapeutsku ili sportsku masažu."
+  },
+  {
+   "t": "p",
+   "text": "Cena zavisi od vrste i trajanja odabrane masaže. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

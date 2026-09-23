@@ -1,0 +1,244 @@
+{
+ "slug": "revitalizujuci-tretmani",
+ "meta": {
+  "title": "Revitalizujući Tretmani Lica Beograd - Salon Emilly",
+  "description": "Revitalizujući tretmani lica u Beogradu za hidrataciju, obnovu i poboljšanje izgleda kože. Profesionalna nega prilagođena potrebama vaše kože u Salon Emilly."
+ },
+ "headerTitle": "Revitalizujići tretmani lica u Beogradu",
+ "faq": [
+  {
+   "q": "Koliko traje revitalizujući tretman lica?",
+   "a": "Trajanje zavisi od vrste revitalizujućeg tretmana i procedure koja se primenjuje. Prilikom zakazivanja možete dobiti informacije o trajanju konkretne opcije."
+  },
+  {
+   "q": "Koliko često se rade revitalizujući tretmani lica?",
+   "a": "Učestalost zavisi od vrste tretmana, tipa i stanja kože, kao i od željenog efekta. Raspored tretmana može se prilagoditi individualnim potrebama kože."
+  },
+  {
+   "q": "Kolika je cena revitalizujućeg tretmana lica?",
+   "a": "Cena zavisi od vrste i sadržaja odabranog tretmana. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Šta su revitalizujući tretmani lica?"
+  },
+  {
+   "t": "p",
+   "text": "Revitalizujući tretmani lica u Beogradu predstavljaju profesionalne tretmane lica namenjene obnovi, hidrataciji i poboljšanju izgleda kože. U zavisnosti od odabrane procedure, mogu biti usmereni na osvežavanje tena, poboljšanje hidratacije i elastičnosti kože, kao i na ublažavanje znakova starenja i umornog izgleda lica."
+  },
+  {
+   "t": "p",
+   "text": "U Salonu Emilly dostupne su različite vrste revitalizujućih tretmana koji se prilagođavaju tipu, stanju i potrebama kože. U ponudi su biorevitalizacija, Derma Pen, Nano Needling, mezoporacija, RF lifting i Myolift, a izbor tretmana zavisi od željenog efekta i trenutnog stanja kože."
+  },
+  {
+   "t": "h2",
+   "text": "Kako izgleda revitalizujući tretman lica?"
+  },
+  {
+   "t": "p",
+   "text": "Tretman počinje čišćenjem i pripremom kože lica, nakon čega se primenjuje odgovarajuća procedura. U zavisnosti od izabranog tretmana, koriste se različite tehnike i preparati koji mogu biti usmereni na hidrataciju, regeneraciju, poboljšanje tonusa i elastičnosti kože."
+  },
+  {
+   "t": "p",
+   "text": "Izbor procedure zavisi od potreba kože i željenog rezultata. Za intenzivniju regeneraciju i obnovu kože možete pogledati i [Green Peel tretmane lica](/green-peel-tretmani/), dok se za temeljno čišćenje i pripremu kože može razmotriti [ultrazvučno čišćenje lica](/ultrazvucno-ciscenje-lica/)."
+  },
+  {
+   "t": "h2",
+   "text": "Kome su namenjeni revitalizujući tretmani lica?"
+  },
+  {
+   "t": "p",
+   "text": "Revitalizujući tretmani mogu odgovarati osobama čija koža lica deluje umorno, dehidrirano i beživotno, kao i osobama koje primećuju prve znake starenja, gubitak elastičnosti ili neujednačen izgled kože."
+  },
+  {
+   "t": "p",
+   "text": "Izbor odgovarajućeg tretmana zavisi od tipa i trenutnog stanja kože, kao i od željenog efekta. Zbog toga se procedura i intenzitet tretmana mogu prilagoditi individualnim potrebama kože lica."
+  },
+  {
+   "t": "h2",
+   "text": "Kakve rezultate možete očekivati?"
+  },
+  {
+   "t": "p",
+   "text": "Nakon revitalizujućeg tretmana koža lica može izgledati svežije, hidriranije i blistavije, uz ujednačeniji ten i prijatan osećaj negovanosti. U zavisnosti od odabrane procedure, tretman može doprineti poboljšanju teksture, tonusa i elastičnosti kože."
+  },
+  {
+   "t": "p",
+   "text": "U okviru ponude našeg [kozmetičkog salona na Voždovcu](/kozmeticki-salon-vozdovac/) možete izabrati revitalizujući tretman prema potrebama svoje kože. Za pregled kompletne ponude dostupnih tretmana pogledajte [kozmetički salon Beograd](/)."
+  },
+  {
+   "t": "h3",
+   "text": "Revitalizujući tretmani u ponudi:"
+  },
+  {
+   "t": "price-title",
+   "text": "Personalizovani tretman"
+  },
+  {
+   "t": "price",
+   "text": "10000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Biorevitalizacija"
+  },
+  {
+   "t": "price",
+   "text": "8500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Derma pen"
+  },
+  {
+   "t": "price",
+   "text": "8500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Nano needling"
+  },
+  {
+   "t": "price",
+   "text": "4000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Mezoporacija lica"
+  },
+  {
+   "t": "price",
+   "text": "5500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Mezoporacija lica (serija 6 tretmana)"
+  },
+  {
+   "t": "price",
+   "text": "27500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Mezoporacija vrata i dekoltea"
+  },
+  {
+   "t": "price",
+   "text": "5500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Mezoporacija vrata i dekoltea (serija 6 tretmana)"
+  },
+  {
+   "t": "price",
+   "text": "27500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "RF lifting lica"
+  },
+  {
+   "t": "price",
+   "text": "6000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "RF lifting lica (serija 6 tretmana)"
+  },
+  {
+   "t": "price",
+   "text": "30000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "RF lifting očne regije + eye sensitive ampula"
+  },
+  {
+   "t": "price",
+   "text": "2500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "RF lifting očne regije (serija 6 tretmana)"
+  },
+  {
+   "t": "price",
+   "text": "13000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "RF lifting vrata i dekoltea"
+  },
+  {
+   "t": "price",
+   "text": "6000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "RF lifting vrata i dekoltea (serija 6 tretmana)"
+  },
+  {
+   "t": "price",
+   "text": "30000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Myolift"
+  },
+  {
+   "t": "price",
+   "text": "5500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Myolift (serija 6 tretmana)"
+  },
+  {
+   "t": "price",
+   "text": "27500 rsd"
+  },
+  {
+   "t": "h2",
+   "text": "Često postavljana pitanja"
+  },
+  {
+   "t": "p",
+   "text": "Trajanje zavisi od vrste revitalizujućeg tretmana i procedure koja se primenjuje. Prilikom zakazivanja možete dobiti informacije o trajanju konkretne opcije."
+  },
+  {
+   "t": "p",
+   "text": "Učestalost zavisi od vrste tretmana, tipa i stanja kože, kao i od željenog efekta. Raspored tretmana može se prilagoditi individualnim potrebama kože."
+  },
+  {
+   "t": "p",
+   "text": "Cena zavisi od vrste i sadržaja odabranog tretmana. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

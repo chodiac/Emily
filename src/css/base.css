@@ -1,0 +1,92 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: auto; overflow-x: clip; overflow-anchor: none; }
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-stopped { overflow: hidden; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.65;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: clip;
+}
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; text-decoration: none; }
+button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+ul, ol { list-style: none; margin: 0; padding: 0; }
+h1, h2, h3, h4, p, figure, blockquote, dl, dd { margin: 0; }
+address { font-style: normal; }
+em { font-style: italic; }
+input, select, textarea { font: inherit; color: inherit; }
+::selection { background: var(--gold); color: var(--pine-900); }
+
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; border-radius: 1px; }
+[data-bg="ivory"] :focus-visible, [data-bg="sand"] :focus-visible { outline-color: var(--gold-deep); }
+
+.skip-link {
+  position: fixed; left: 1rem; top: -4rem; z-index: 200;
+  background: var(--gold); color: var(--pine-900); padding: .75rem 1.1rem; font-weight: 600;
+  transition: top .3s var(--ease-out);
+}
+.skip-link:focus { top: 1rem; }
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap; margin: -1px;
+}
+
+/* Section colour schemes */
+[data-bg="pine"] { background: var(--pine-800); color: var(--ivory); }
+[data-bg="ivory"] { background: var(--ivory); color: var(--ink); }
+[data-bg="sand"] { background: var(--sand); color: var(--ink); }
+
+/* Typography */
+.display-xl, .display-l, .display-m, .display-s {
+  font-family: var(--font-display);
+  font-weight: 400;
+  line-height: .96;
+  letter-spacing: -.012em;
+}
+.display-xl { font-size: var(--fs-display-xl); line-height: .9; letter-spacing: -.02em; }
+.display-l { font-size: var(--fs-display-l); }
+.display-m { font-size: var(--fs-display-m); line-height: 1.02; }
+.display-s { font-size: var(--fs-display-s); line-height: 1.1; }
+.display-xl em, .display-l em, .display-m em, .display-s em, h1 em, h2 em { font-style: italic; color: var(--accent, inherit); }
+[data-bg="pine"] { --accent: var(--gold); }
+[data-bg="ivory"], [data-bg="sand"] { --accent: var(--gold-deep); }
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  margin-bottom: 1.4rem;
+  display: flex; align-items: center; gap: .8rem;
+}
+.eyebrow::before { content: ""; width: 1.8rem; height: 1px; background: currentColor; opacity: .5; }
+.lead { font-size: var(--fs-lead); line-height: 1.5; font-weight: 300; }
+.muted { color: var(--ink-soft); }
+[data-bg="pine"] .muted, .muted-light { color: rgba(244, 239, 230, .72); }
+.tabular { font-variant-numeric: tabular-nums; }
+
+.prose p + p { margin-top: 1.1em; }
+.prose--lg { font-size: var(--fs-lead); line-height: 1.55; font-weight: 300; }
+.link-inline {
+  background: linear-gradient(currentColor, currentColor) 0 100% / 100% 1px no-repeat;
+  transition: background-size .5s var(--ease-out), color .3s;
+  padding-bottom: 1px;
+}
+.link-inline:hover { background-size: 0 1px; background-position: 100% 100%; color: var(--accent); }
+
+.line-mask { display: inline-block; overflow: hidden; vertical-align: top; padding: 0 .04em .2em 0; margin: 0 -.04em -.2em 0; }
+.line-mask > span { display: inline-block; }
+.split-word { display: inline-block; white-space: nowrap; overflow: hidden; vertical-align: top; padding: 0 .06em .2em 0; margin: 0 -.06em -.2em 0; }
+.split-word__in { display: inline-block; will-change: transform; }
+[data-split="chars"] .split-word, .is-body-split .split-word { overflow: visible; }
+.split-char { display: inline-block; }
+
+.rule { display: block; height: 1px; background: currentColor; opacity: .18; transform-origin: left; }

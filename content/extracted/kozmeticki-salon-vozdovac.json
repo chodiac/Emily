@@ -1,0 +1,228 @@
+{
+ "slug": "kozmeticki-salon-vozdovac",
+ "meta": {
+  "title": "Kozmetički Salon Voždovac | Salon Emilly",
+  "description": "Kozmetički salon Voždovac u Ustaničkoj 84B. Salon Emilly nudi personalizovane tretmane lica i tela, masaže, Green Peel i medicinsku kozmetiku."
+ },
+ "headerTitle": null,
+ "faq": [
+  {
+   "q": "Gde se nalazi kozmetički salon na Voždovcu?",
+   "a": "Salon Emilly nalazi se na adresi Ustanička 84B, Beograd, u području Voždovca, u blizini Šumica i Dušanovca. Lokacija je dobro povezana sa okolnim delovima grada i nalazi se u blizini više stanica javnog prevoza."
+  },
+  {
+   "q": "Koje tretmane nudi Salon Emilly?",
+   "a": "U ponudi su higijenski i revitalizujući tretmani lica, ultrazvučno čišćenje, Green Peel, beauty tretmani, higijenski tretmani leđa, različite vrste masaža, anticelulit program, madero masaže i drugi tretmani. Ponuda se prilagođava potrebama klijenta."
+  },
+  {
+   "q": "Da li se tretman prilagođava tipu kože?",
+   "a": "Da. Individualni pristup je jedan od osnovnih principa rada salona. Pre tretmana se procenjuju potrebe kože kako bi se izabrao odgovarajući tretman i način nege."
+  },
+  {
+   "q": "Kako mogu da zakažem termin?",
+   "a": "Termin možete zakazati direktnim kontaktom sa salonom ili putem online zakazivanja, u zavisnosti od dostupne opcije na sajtu."
+  },
+  {
+   "q": "Koje je radno vreme?",
+   "a": "Salon radi od ponedeljka do petka od 12:00 do 20:00, a subotom od 09:00 do 17:00. Nedeljom salon ne radi."
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Personalizovani tretmani lica i tela u Ustaničkoj ulici, uz stručan i individualan pristup Emilije Bojić."
+  },
+  {
+   "t": "h1",
+   "text": "Kozmetički salon Voždovac"
+  },
+  {
+   "t": "p",
+   "text": "Kozmetički salon Voždovac — Salon Emilly nalazi se u Ustaničkoj ulici, na adresi Ustanička 84B, i namenjen je svima koji žele profesionalnu i personalizovanu negu lica i tela u prijatnoj, intimnoj atmosferi. Vlasnica salona i stručna kozmetičarka Emilija Bojić svakom klijentu pristupa individualno, procenjujući potrebe kože i birajući tretman koji joj u datom trenutku najviše odgovara."
+  },
+  {
+   "t": "p",
+   "text": "Salon je smešten u delu Voždovca koji povezuje Ustaničku ulicu sa okolnim naseljima poput [Šumica](/kozmeticki-salon-sumice/) i [Dušanovca](/kozmeticki-salon-dusanovac/), pa je lako dostupan klijentima iz različitih delova opštine. Bilo da vam je potrebna dubinska nega kože, revitalizacija, opuštajuća masaža ili tretman usmeren na određeni problem kože, cilj je isti – da dobijete stručnu negu, pažnju i tretman prilagođen upravo vama."
+  },
+  {
+   "t": "h2",
+   "text": "Zašto baš Salon Emilly?"
+  },
+  {
+   "t": "p",
+   "text": "Nega kože nije ista za svakoga. Ono što odgovara jednoj osobi ne mora biti najbolji izbor za drugu, zbog čega se u salonu Emilly posebna pažnja posvećuje individualnom pristupu."
+  },
+  {
+   "t": "p",
+   "text": "Emilija Bojić iza sebe ima višedecenijsko iskustvo u kozmetičkoj nezi i svoj rad zasniva na stručnosti, pažljivom pristupu i stalnom praćenju savremenih metoda u kozmetologiji. U radu se koriste proverena medicinska kozmetika i kvalitetni preparati renomiranih brendova, uz izbor tretmana prema stanju i potrebama kože."
+  },
+  {
+   "t": "p",
+   "text": "Posebna pažnja posvećena je problematičnoj koži i anti-age nezi, ali i klijentima koji jednostavno žele da održavaju zdrav, negovan i blistav izgled kože. Svaki tretman se izvodi 1 na 1, uz dovoljno vremena za razgovor, procenu i preporuku odgovarajuće nege."
+  },
+  {
+   "t": "p",
+   "text": "Klijentima je važno i to što tokom tretmana dobijaju praktične savete za dalju negu kože. Cilj nije samo prijatan trenutak u salonu, već stvaranje kvalitetne rutine koja može doprineti dugoročnom zdravlju i izgledu kože."
+  },
+  {
+   "t": "h2",
+   "text": "Tretmani lica i tela"
+  },
+  {
+   "t": "h3",
+   "text": "[Higijenski tretmani lica](/higijenski-tretmani-lica/)"
+  },
+  {
+   "t": "p",
+   "text": "Temeljno čišćenje i profesionalna nega za svežiji i negovan izgled kože."
+  },
+  {
+   "t": "h3",
+   "text": "[Ultrazvučno čišćenje lica](/ultrazvucno-ciscenje-lica/)"
+  },
+  {
+   "t": "p",
+   "text": "Nežan tretman za uklanjanje nečistoća i pripremu kože za dalju negu."
+  },
+  {
+   "t": "h3",
+   "text": "[Beauty tretmani](/beauty-tretmani/)"
+  },
+  {
+   "t": "p",
+   "text": "Različiti pristupi za hidrataciju, osveženje i lepši izgled kože."
+  },
+  {
+   "t": "h3",
+   "text": "[Green peel tretmani](/green-peel-tretmani/)"
+  },
+  {
+   "t": "p",
+   "text": "Prirodna revitalizacija i obnova kože, prilagođena njenim potrebama."
+  },
+  {
+   "t": "h3",
+   "text": "[Higijenski tretmani leđa](/higijenski-tretmani-ledja/)"
+  },
+  {
+   "t": "p",
+   "text": "Profesionalno čišćenje i nega kože leđa."
+  },
+  {
+   "t": "h3",
+   "text": "[Masaže](/masaze/)"
+  },
+  {
+   "t": "p",
+   "text": "Relaksirajuće i terapeutske tehnike za opuštanje i oslobađanje napetosti."
+  },
+  {
+   "t": "h3",
+   "text": "[Anticelulit program](/anticelulit-masaze/)"
+  },
+  {
+   "t": "p",
+   "text": "Cljana nega kože tela i tretmani usmereni na izgled kože."
+  },
+  {
+   "t": "h3",
+   "text": "[Lux tretmani](/lux-tretmani/)"
+  },
+  {
+   "t": "p",
+   "text": "Kombinacija odabranih tretmana za potpunu negu i uživanje."
+  },
+  {
+   "t": "h2",
+   "text": "Kozmetički salon u srcu Voždovca"
+  },
+  {
+   "t": "p",
+   "text": "Salon Emilly nalazi se na adresi Ustanička 84B, Beograd, u delu Voždovca koji se prirodno naslanja na Šumice i Dušanovac. Lokacija u Ustaničkoj ulici praktična je za klijente koji dolaze iz različitih delova opštine, bilo pešice, automobilom ili javnim prevozom."
+  },
+  {
+   "t": "p",
+   "text": "Za stanovnike Voždovca posebno je praktično što se salon nalazi u blizini više važnih saobraćajnica i stanica. U okolini se nalaze stanice poput GO Voždovac, Dušanovac/Pošta, Husova, Miška Jovanovića i Peke Pavlovića, kao i druge stanice na nekoliko stotina metara od salona."
+  },
+  {
+   "t": "p",
+   "text": "Do ovog dela Voždovca mogu se koristiti različite linije gradskog prevoza, uključujući 17, 25, 25P, 26, 30 i 31, u zavisnosti od pravca iz kog dolazite."
+  },
+  {
+   "t": "p",
+   "text": "Za one koji žive u okolnim delovima opštine, poput Šumica, Dušanovca i šireg područja Voždovca, lokacija omogućava da termin za negu kože ili masažu uklopite u svakodnevne obaveze bez odlaska u centar grada."
+  },
+  {
+   "t": "p",
+   "text": "Upravo zato Salon Emilly nije namenjen samo klijentima koji dolaze iz neposrednog komšiluka. Lokacija u Ustaničkoj omogućava jednostavan dolazak i iz drugih delova Beograda, dok mirna atmosfera salona pruža odmak od gradske gužve čim uđete na tretman."
+  },
+  {
+   "t": "p",
+   "text": "Adresa: Ustanička 84b, Voždovac"
+  },
+  {
+   "t": "p",
+   "text": "Tramvaji: 17, 25, 25p, 26, 30, 31"
+  },
+  {
+   "t": "p",
+   "text": "Radno vreme: Pon–Pet 12–20h, Sub 9–17h"
+  },
+  {
+   "t": "h2",
+   "text": "Iskustva naših klijenata"
+  },
+  {
+   "t": "h2",
+   "text": "Često postavljana pitanja"
+  },
+  {
+   "t": "p",
+   "text": "Salon Emilly nalazi se na adresi Ustanička 84B, Beograd, u području Voždovca, u blizini Šumica i Dušanovca. Lokacija je dobro povezana sa okolnim delovima grada i nalazi se u blizini više stanica javnog prevoza."
+  },
+  {
+   "t": "p",
+   "text": "U ponudi su higijenski i revitalizujući tretmani lica, ultrazvučno čišćenje, Green Peel, beauty tretmani, higijenski tretmani leđa, različite vrste masaža, anticelulit program, madero masaže i drugi tretmani. Ponuda se prilagođava potrebama klijenta."
+  },
+  {
+   "t": "p",
+   "text": "Da. Individualni pristup je jedan od osnovnih principa rada salona. Pre tretmana se procenjuju potrebe kože kako bi se izabrao odgovarajući tretman i način nege."
+  },
+  {
+   "t": "p",
+   "text": "Termin možete zakazati direktnim kontaktom sa salonom ili putem online zakazivanja, u zavisnosti od dostupne opcije na sajtu."
+  },
+  {
+   "t": "p",
+   "text": "Salon radi od ponedeljka do petka od 12:00 do 20:00, a subotom od 09:00 do 17:00. Nedeljom salon ne radi."
+  },
+  {
+   "t": "p",
+   "text": "Ako tražite [kozmetički salon u Beogradu](/) sa profesionalnim pristupom nezi lica i tela, posetite Salon Emilly u Ustaničkoj 84B. Zakažite svoj termin i prepustite se personalizovanom tretmanu, stručnoj nezi i prijatnoj atmosferi."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

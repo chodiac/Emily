@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "emilly-salon",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "tools/serve.py",
+        "5184"
+      ],
+      "port": 5184
+    }
+  ]
+}

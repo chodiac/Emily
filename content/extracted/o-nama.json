@@ -1,0 +1,71 @@
+{
+ "slug": "o-nama",
+ "meta": {
+  "title": "Kozmetički Salon Emilly - Nega Lica I Tela Beograd",
+  "description": "Kozmetički salon Emilly u Beogradu pruža personalizovane tretmane lica i tela, anti-age negu i profesionalnu kozmetologiju sa dokazanim efektima."
+ },
+ "headerTitle": "O nama",
+ "faq": [],
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Salon Emilly"
+  },
+  {
+   "t": "p",
+   "text": "Vrata salona Emilly otvoriće vam kozmetičarka Emilija Bojić, vlasnica salona i stručnjak sa višedecenijskim iskustvom i ljubavlju prema kozmetologiji. Moj rad zasniva se na individualnom pristupu svakom klijentu, posvećenoj pažnji i stvaranju osećaja poverenja i opuštenosti."
+  },
+  {
+   "t": "p",
+   "text": "Kombinacijom stručnog znanja, precizne dijagnostike i profesionalne medicinske kozmetike, kreiram personalizovane tretmane koji daju vidljive i dugoročne rezultate. Stalnim usavršavanjem na kongresima, seminarima i edukacijama pratim inovacije u svetu kozmetologije i primenjujem ih u svakodnevnom radu."
+  },
+  {
+   "t": "p",
+   "text": "Posebnu pažnju posvećujem radu sa tinejdžerima i mladima, razumevajući njihove potrebe i nesigurnosti. Sa strpljenjem i empatijom pružam tretmane koji neguju i podstiču zdrav odnos prema koži. Kao profesionalac i žena, veliki značaj pridajem i anti-age nezi, koristeći proverene metode koje odlažu znake starenja i doprinose očuvanju prirodne lepote."
+  },
+  {
+   "t": "p",
+   "text": "Salon Emilly je ponosni partner renomiranih brendova kao što su:\nDr. med. Christine Schrammek – Green Peel (Nemačka), Ericson Laboratorie (Pariz), Biodroga (Nemačka), Physio Natura (Italija), MCCM Medical Cosmetic (Španija), Esthemax (SAD). Ovi brendovi zasnovani su na prirodnoj medicinskoj kozmetici sa dokazanim efektima, a direktna saradnja sa proizvođačima garantuje originalne i visokokvalitetne preparate."
+  },
+  {
+   "t": "p",
+   "text": "Naša stručnost prepoznata je i nagradama:"
+  },
+  {
+   "t": "p",
+   "text": "Factor Estetic nagrada za izuzetne rezultate u tretmanima problematične i aknozne kože"
+  },
+  {
+   "t": "p",
+   "text": "Višegodišnje priznanje Top salon na platformi Sredi me, na osnovu najboljih ocena i recenzija zadovoljnih klijenata."
+  },
+  {
+   "t": "p",
+   "text": "Naša misija je da kroz pravilnu i redovnu negu kože doprinesem očuvanju njenog zdravlja, jer samo zdrava i negovana koža donosi samopouzdanje. U salonu Emilly negu posmatramo kao ritual lepote i zdravlja, a naš cilj je da se u svojoj koži osećate samouvereno i zadovoljno."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

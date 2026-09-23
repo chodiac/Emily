@@ -1,0 +1,236 @@
+{
+ "slug": "dodaci-tretmanima",
+ "meta": {
+  "title": "Dodaci Tretmanima Beograd - Salon Emilly",
+  "description": "Dodaci tretmanima u Beogradu za dodatnu hidrataciju, negu i revitalizaciju kože. Izaberite masažu, masku, LED, Oxygen ili drugi dodatak u Salon Emilly. Zakažite termin."
+ },
+ "headerTitle": "Dodatak tretmanima u Beogradu",
+ "faq": [
+  {
+   "q": "Da li se dodaci tretmanima mogu kombinovati sa osnovnim tretmanom?",
+   "a": "Da. Dodaci su namenjeni upravo tome da se, u skladu sa potrebama kože, kombinuju sa odgovarajućim osnovnim tretmanom i pruže dodatnu negu."
+  },
+  {
+   "q": "Koji dodatak je najbolji za moju kožu?",
+   "a": "Izbor zavisi od tipa i trenutnog stanja kože, kao i od tretmana koji se radi. Prilikom zakazivanja možete dobiti preporuku odgovarajuće procedure u skladu sa svojim potrebama."
+  },
+  {
+   "q": "Kolika je cena dodataka tretmanima?",
+   "a": "Cena zavisi od vrste odabranog dodatka i kombinacije sa osnovnim tretmanom. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Šta su dodaci tretmanima?"
+  },
+  {
+   "t": "p",
+   "text": "Dodaci tretmanima u Beogradu predstavljaju dodatne procedure koje se mogu uključiti u osnovni kozmetički tretman kako bi se nega kože dodatno prilagodila njenim potrebama. U zavisnosti od odabranog dodatka, fokus može biti na hidrataciji, revitalizaciji, čišćenju, umirivanju kože ili poboljšanju njenog izgleda."
+  },
+  {
+   "t": "p",
+   "text": "U Salonu Emilly dostupni su različiti dodaci koji se mogu kombinovati sa odabranim tretmanima. U ponudi su masaže lica, lifting masaža, limfna drenaža lica, ampule, alginatne i kolagen maske, LED svetlosna terapija, Oxygen, mikrodermoabrazija i drugi dodaci."
+  },
+  {
+   "t": "h2",
+   "text": "Kako izgledaju dodaci tretmanima?"
+  },
+  {
+   "t": "p",
+   "text": "Izbor dodatka zavisi od osnovnog tretmana koji se radi, tipa kože i željenog efekta. Nakon procene potreba kože može se odabrati procedura koja će upotpuniti tretman, bilo da je cilj dodatna hidratacija, osvežavanje, nega ili intenzivniji efekat."
+  },
+  {
+   "t": "p",
+   "text": "Na primer, masaža lica može doprineti prijatnom osećaju opuštenosti, dok se mikrodermoabrazija može koristiti za dodatno čišćenje i poboljšanje teksture kože. Za kompletnu negu možete pogledati i[higijenski tretmani lica](/higijenski-tretmani-lica/), dok su za intenzivniju regeneraciju dostupni [revitalizujući tretmani lica](/revitalizujuci-tretmani/)."
+  },
+  {
+   "t": "h2",
+   "text": "Kome su namenjeni dodaci tretmanima?"
+  },
+  {
+   "t": "p",
+   "text": "Dodaci tretmanima mogu odgovarati osobama koje žele da svoju redovnu kozmetičku negu dodatno prilagode potrebama kože. Mogu biti korisni kada je koži potrebna dodatna hidratacija, osvežavanje, nega ili pažnja usmerena na određeni problem."
+  },
+  {
+   "t": "p",
+   "text": "Izbor dodatka zavisi od trenutnog stanja kože i tretmana koji se već primenjuje. Zbog toga se kombinacija procedura može prilagoditi individualnim potrebama, kako bi tretman bio što korisniji i prijatniji."
+  },
+  {
+   "t": "h2",
+   "text": "Kakve rezultate možete očekivati?"
+  },
+  {
+   "t": "p",
+   "text": "Rezultati zavise od izabranog dodatka i osnovnog tretmana sa kojim se kombinuje. Koža nakon odgovarajuće kombinacije može izgledati svežije, hidriranije, glatkije i negovanije, dok pojedini dodaci mogu doprineti boljoj teksturi i blistavijem izgledu kože."
+  },
+  {
+   "t": "p",
+   "text": "U okviru ponude našeg [kozmetičkog salona na Voždovcu](/kozmeticki-salon-vozdovac/) možete odabrati dodatak koji odgovara vašim potrebama i upotpuniti osnovni tretman. Za pregled kompletne ponude dostupnih tretmana pogledajte [kozmetički salon Beograd](/)."
+  },
+  {
+   "t": "h3",
+   "text": "Dodaci tretmanima u ponudi:"
+  },
+  {
+   "t": "price-title",
+   "text": "Masaža lica sa enzinskim pilingom"
+  },
+  {
+   "t": "price",
+   "text": "2500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Lifting masaža lica"
+  },
+  {
+   "t": "price",
+   "text": "3000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Masaža lica"
+  },
+  {
+   "t": "price",
+   "text": "2000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Limfna drenaža lica"
+  },
+  {
+   "t": "price",
+   "text": "2000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Masaža šake"
+  },
+  {
+   "t": "price",
+   "text": "1000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Pakovanje šake"
+  },
+  {
+   "t": "price",
+   "text": "1000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Blic tretman"
+  },
+  {
+   "t": "price",
+   "text": "2500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Ampula"
+  },
+  {
+   "t": "price",
+   "text": "1000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Alginatna maska"
+  },
+  {
+   "t": "price",
+   "text": "1500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Kolagen maska"
+  },
+  {
+   "t": "price",
+   "text": "2500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "LED svetlosna terapija"
+  },
+  {
+   "t": "price",
+   "text": "1500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Oxygen"
+  },
+  {
+   "t": "price",
+   "text": "1500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Studentski paket"
+  },
+  {
+   "t": "price",
+   "text": "3900 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Mikrodermoabrazija - dijamantski piling"
+  },
+  {
+   "t": "price",
+   "text": "4500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Hair boost tretman"
+  },
+  {
+   "t": "price",
+   "text": "12000 rsd"
+  },
+  {
+   "t": "h2",
+   "text": "Često postavljana pitanja"
+  },
+  {
+   "t": "p",
+   "text": "Da. Dodaci su namenjeni upravo tome da se, u skladu sa potrebama kože, kombinuju sa odgovarajućim osnovnim tretmanom i pruže dodatnu negu."
+  },
+  {
+   "t": "p",
+   "text": "Izbor zavisi od tipa i trenutnog stanja kože, kao i od tretmana koji se radi. Prilikom zakazivanja možete dobiti preporuku odgovarajuće procedure u skladu sa svojim potrebama."
+  },
+  {
+   "t": "p",
+   "text": "Cena zavisi od vrste odabranog dodatka i kombinacije sa osnovnim tretmanom. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

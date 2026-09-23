@@ -1,0 +1,228 @@
+{
+ "slug": "kozmeticki-salon-sumice",
+ "meta": {
+  "title": "Kozmetički Salon Šumice | Salon Emilly",
+  "description": "Kozmetički salon Šumice – Salon Emilly u Ustaničkoj 84B, blizu Parka Šumice. Tretmani lica, masaže, Green Peel, anticelulit i profesionalna nega."
+ },
+ "headerTitle": null,
+ "faq": [
+  {
+   "q": "Gde se nalazi kozmetički salon u Šumicama?",
+   "a": "Salon Emilly nalazi se na adresi Ustanička 84B, Beograd, u neposrednom području Šumica i u blizini Parka Šumice."
+  },
+  {
+   "q": "Da li je Salon Emilly blizu Parka Šumice?",
+   "a": "Da. Salon se nalazi u Ustaničkoj ulici, u blizini područja Šumica, pa je pogodan za stanovnike okolnih ulica koji žele da do salona dođu pešice ili kratkom vožnjom."
+  },
+  {
+   "q": "Koje tretmane mogu da zakažem?",
+   "a": "U ponudi su higijenski tretmani lica, ultrazvučno čišćenje, Green Peel, revitalizujući tretmani, masaže, anticelulit masaže, Madero masaže, tretmani leđa, Lux tretmani i dodatne usluge."
+  },
+  {
+   "q": "Da li se tretman bira prema tipu kože?",
+   "a": "Da. Tretman se bira u skladu sa stanjem i potrebama kože, kao i željama klijenta. Individualni pristup je jedan od osnovnih principa rada salona."
+  },
+  {
+   "q": "Kako mogu da zakažem termin?",
+   "a": "Termin možete zakazati direktnim kontaktom sa Salonom Emilly. Preporučujemo da termin rezervišete unapred."
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h1",
+   "text": "Profesionalna nega lica i tela u prijatnom salonu, u samom srcu Šumica."
+  },
+  {
+   "t": "h1",
+   "text": "Kozmetički salon Šumice"
+  },
+  {
+   "t": "p",
+   "text": "Kozmetički salon Šumice — Salon Emilly nalazi se u Ustaničkoj ulici, na adresi Ustanička 84B, i predstavlja praktičan izbor za stanovnike Šumica i okolnih delova Voždovca koji žele profesionalnu negu lica i tela bez odlaska u centar grada. Vlasnica salona, Emilija Bojić, svakom klijentu pristupa individualno i bira tretmane prema potrebama kože, željama i ciljevima."
+  },
+  {
+   "t": "p",
+   "text": "Lokacija u neposrednoj blizini Parka Šumice omogućava da termin za tretman lako uklopite u svakodnevne obaveze. Bilo da živite u Šumicama, radite u okolini ili ste u prolazu Ustaničkom ulicom, Salon Emilly pruža mirno mesto za predah, negu i opuštanje."
+  },
+  {
+   "t": "h2",
+   "text": "Zašto baš Salon Emilly?"
+  },
+  {
+   "t": "p",
+   "text": "Lepa i negovana koža zahteva kontinuitet, ali i pravilan izbor tretmana. Zbog toga se u Salonu Emilly ne pristupa svakom klijentu na isti način. Preporuka tretmana zavisi od trenutnog stanja kože, njenih potreba i očekivanih rezultata."
+  },
+  {
+   "t": "p",
+   "text": "Emilija Bojić ima višedecenijsko iskustvo u oblasti kozmetičke nege i posebnu pažnju posvećuje kvalitetu preparata, tehnici rada i individualnom pristupu. U salonu se koriste pažljivo odabrani proizvodi medicinske kozmetike, uz tretmane namenjene različitim tipovima i stanjima kože."
+  },
+  {
+   "t": "p",
+   "text": "Posebna pažnja posvećena je nezi problematične i osetljive kože, kao i anti-age tretmanima za klijente koji žele da poboljšaju tonus, hidrataciju i svežinu kože."
+  },
+  {
+   "t": "p",
+   "text": "Pored stručnog tretmana, cilj je da se klijent oseća prijatno i opušteno. Zato Salon Emilly neguje odnos poverenja i otvoren razgovor o potrebama kože i daljoj kućnoj nezi."
+  },
+  {
+   "t": "h2",
+   "text": "Tretmani lica i tela"
+  },
+  {
+   "t": "h3",
+   "text": "[Higijenski tretmani lica](/higijenski-tretmani-lica/)"
+  },
+  {
+   "t": "p",
+   "text": "Profesionalna nega koja pomaže da koža bude čista, sveža i negovana."
+  },
+  {
+   "t": "h3",
+   "text": "[Ultrazvučno čišćenje lica](/ultrazvucno-ciscenje-lica/)"
+  },
+  {
+   "t": "p",
+   "text": "Blaga metoda čišćenja koja osvežava kožu i priprema je za dalju negu."
+  },
+  {
+   "t": "h3",
+   "text": "[Beauty tretmani](/beauty-tretmani/)"
+  },
+  {
+   "t": "p",
+   "text": "Nega za hidrataciju, osvežen izgled i dodatnu pažnju vašoj koži."
+  },
+  {
+   "t": "h3",
+   "text": "[Green peel tretmani](/green-peel-tretmani/)"
+  },
+  {
+   "t": "p",
+   "text": "Prirodan pristup revitalizaciji kože i poboljšanju njenog izgleda."
+  },
+  {
+   "t": "h3",
+   "text": "[Higijenski tretmani leđa](/higijenski-tretmani-ledja/)"
+  },
+  {
+   "t": "p",
+   "text": "Temeljna nega kože leđa za čistiji i uredniji izgled."
+  },
+  {
+   "t": "h3",
+   "text": "[Masaže](/masaze/)"
+  },
+  {
+   "t": "p",
+   "text": "Izbor različitih tehnika za relaksaciju, odmor i prijatno opuštanje tela."
+  },
+  {
+   "t": "h3",
+   "text": "[Anticelulit program](/anticelulit-masaze/)"
+  },
+  {
+   "t": "p",
+   "text": "Tretmani usmereni na negu kože i poboljšanje njenog izgleda."
+  },
+  {
+   "t": "h3",
+   "text": "[Lux tretmani](/lux-tretmani/)"
+  },
+  {
+   "t": "p",
+   "text": "Pažljivo kombinovana nega lica i tela za poseban trenutak opuštanja."
+  },
+  {
+   "t": "h2",
+   "text": "Salon Emilly u srcu Šumica"
+  },
+  {
+   "t": "p",
+   "text": "Jedna od najvećih prednosti ove lokacije jeste upravo njena blizina stanovnicima Šumica. Salon se nalazi na adresi Ustanička 84B, u delu grada koji je lako dostupan iz različitih pravaca."
+  },
+  {
+   "t": "p",
+   "text": "Ako živite u blizini Parka Šumice, do salona možete doći pešice i bez potrebe da putujete do centra Beograda. Za stanovnike okolnih ulica termin za tretman može biti deo svakodnevne rutine – kratka šetnja do salona, tretman i povratak kući."
+  },
+  {
+   "t": "p",
+   "text": "Lokacija je pogodna i za dolazak javnim prevozom. U zavisnosti od pravca iz kog dolazite, do područja Ustaničke i Šumica povezuju vas linije 17, 25, 25P, 26, 30 i 31."
+  },
+  {
+   "t": "p",
+   "text": "Blizina važnih saobraćajnica dodatno olakšava dolazak klijentima iz drugih delova grada ukoliko traže [kozmetički salon na Voždovcu](/kozmeticki-salon-vozdovac/) ili na Dušanovcu."
+  },
+  {
+   "t": "p",
+   "text": "Za stanovnike Šumica posebno je praktično što se Salon Emilly nalazi u njihovom neposrednom okruženju. Umesto da za profesionalni tretman kože odvajate dodatno vreme za odlazak u udaljeniji deo grada, kvalitetnu negu možete imati praktično u svom komšiluku."
+  },
+  {
+   "t": "p",
+   "text": "Adresa: Ustanička 84b, Voždovac"
+  },
+  {
+   "t": "p",
+   "text": "Tramvaji: 17, 25, 25p, 26, 30, 31"
+  },
+  {
+   "t": "p",
+   "text": "Radno vreme: Pon–Pet 12–20h, Sub 9–17h"
+  },
+  {
+   "t": "h2",
+   "text": "Iskustva naših klijenata"
+  },
+  {
+   "t": "h2",
+   "text": "Često postavljana pitanja"
+  },
+  {
+   "t": "p",
+   "text": "Salon Emilly nalazi se na adresi Ustanička 84B, Beograd, u neposrednom području Šumica i u blizini Parka Šumice."
+  },
+  {
+   "t": "p",
+   "text": "Da. Salon se nalazi u Ustaničkoj ulici, u blizini područja Šumica, pa je pogodan za stanovnike okolnih ulica koji žele da do salona dođu pešice ili kratkom vožnjom."
+  },
+  {
+   "t": "p",
+   "text": "U ponudi su higijenski tretmani lica, ultrazvučno čišćenje, Green Peel, revitalizujući tretmani, masaže, anticelulit masaže, Madero masaže, tretmani leđa, Lux tretmani i dodatne usluge."
+  },
+  {
+   "t": "p",
+   "text": "Da. Tretman se bira u skladu sa stanjem i potrebama kože, kao i željama klijenta. Individualni pristup je jedan od osnovnih principa rada salona."
+  },
+  {
+   "t": "p",
+   "text": "Termin možete zakazati direktnim kontaktom sa Salonom Emilly. Preporučujemo da termin rezervišete unapred."
+  },
+  {
+   "t": "p",
+   "text": "Ako živite u Šumicama ili okolini i tražite profesionalnu negu lica i tela u [kozmetičkom salonu u Beogradu](/), blizu vašeg doma, posetite Salon Emilly u Ustaničkoj 84B. Zakažite termin i priuštite sebi vreme za negu i opuštanje."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

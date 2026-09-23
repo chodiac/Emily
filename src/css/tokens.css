@@ -1,0 +1,44 @@
+:root {
+  /* Brand — petrol green + gold from the Emilly logo/site, deepened for an editorial palette */
+  --pine-950: #0f1b1a;
+  --pine-900: #142322;
+  --pine-800: #1a2c2b;
+  --pine-700: #253d3f;
+  --pine-500: #4d6a69;
+  --gold: #dec292;
+  --gold-soft: #eadbbd;
+  --gold-deep: #8a6a35;   /* gold for text on light backgrounds (AA on ivory) */
+  --ivory: #f4efe6;
+  --sand: #e9e0d1;
+  --paper: #fbf8f3;
+  --ink: #17201f;
+  --ink-soft: #4d5552;
+  --line-dark: rgba(23, 32, 31, .16);
+  --line-light: rgba(244, 239, 230, .2);
+
+  --font-display: "Instrument Serif", "Times New Roman", serif;
+  --font-body: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --fs-xs: .75rem;
+  --fs-s: .875rem;
+  --fs-body: clamp(1rem, .96rem + .2vw, 1.0625rem);
+  --fs-lead: clamp(1.15rem, 1rem + .6vw, 1.45rem);
+  --fs-display-s: clamp(1.6rem, 1.2rem + 1.6vw, 2.5rem);
+  --fs-display-m: clamp(2.1rem, 1.3rem + 3.2vw, 4.4rem);
+  --fs-display-l: clamp(2.7rem, 1.4rem + 5.4vw, 6.8rem);
+  --fs-display-xl: clamp(3.3rem, 1rem + 10vw, 11.8rem);
+
+  --gutter: clamp(1rem, 4.2vw, 4.5rem);
+  --section: clamp(5rem, 11vw, 11rem);
+  --radius: 2px;
+  --nav-h: 76px;
+
+  /* EVER easings (Lenis expo-out, IX2 outQuart / inOutQuint) */
+  --ease-out: cubic-bezier(.165, .84, .44, 1);
+  --ease-expo: cubic-bezier(.19, 1, .22, 1);
+  --ease-inout: cubic-bezier(.86, 0, .07, 1);
+  --ease-in: cubic-bezier(.755, .05, .855, .06);
+
+  --bg: var(--ivory);
+  --fg: var(--ink);
+}

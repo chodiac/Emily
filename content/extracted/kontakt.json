@@ -1,0 +1,83 @@
+{
+ "slug": "kontakt",
+ "meta": {
+  "title": "Kozmetički Salon Emilly - Kontakt I Lokacija",
+  "description": "Kontaktirajte kozmetički salon Emilly u Beogradu za zakazivanje tretmana lica i tela, dodatnih informacija ili saveta o nezi kože."
+ },
+ "headerTitle": "Kontakt",
+ "faq": [],
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Kozmetički salon Emilly"
+  },
+  {
+   "t": "h3",
+   "text": "Kontakt"
+  },
+  {
+   "t": "p",
+   "text": "salonemilly7@gmail.com\n\n064/11-62-333"
+  },
+  {
+   "t": "h3",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Ponedeljak - Petak: 12:00 - 20:00\n\nSubota: 09:00 - 17:00\n\nNedelja: Neradan dan"
+  },
+  {
+   "t": "h3",
+   "text": "Lokacija"
+  },
+  {
+   "t": "p",
+   "text": "Ustanička 84b, Voždovac,\n\n11000 Beograd\n\n\n\nLinije gradskog prevoza:\n\n17, 25, 25p, 26, 30, 31"
+  },
+  {
+   "t": "h2",
+   "text": "Naše recenzije"
+  },
+  {
+   "t": "p",
+   "text": "4.9"
+  },
+  {
+   "t": "p",
+   "text": "Top salon"
+  },
+  {
+   "t": "h2",
+   "text": "Pošaljite nam poruku"
+  },
+  {
+   "t": "p",
+   "text": "Pošaljite"
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}

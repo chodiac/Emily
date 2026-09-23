@@ -1,0 +1,29 @@
+/* Sticky pins (sections.js stickyPin): section gets extra height, [data-pin] child sticks */
+.is-sticky { position: relative; }
+.is-sticky > [data-pin] { position: sticky; top: 0; height: 100vh; height: 100svh; min-height: 0; overflow: hidden; }
+
+/* Initial states for JS-driven motion. `html.motion` is only set when JS runs and the user
+   has not asked for reduced motion; a 5 s safety timeout removes it if the scripts fail. */
+html.motion [data-hero-line] { transform: translateY(112%); }
+html.motion [data-hero-fade] { opacity: 0; transform: translateY(24px); }
+html.motion [data-hero-media] { clip-path: inset(12% 10% 12% 10%); }
+html.motion [data-hero-media] img { transform: scale(1.25); }
+html.motion [data-split]:not(.is-split) { visibility: hidden; }
+html.motion [data-media-reveal] { clip-path: inset(100% 0 0 0); }
+html.motion [data-media-reveal] img { transform: scale(1.3); }
+html.motion [data-line] { transform: scaleX(0); }
+html.motion .footer__word span { transform: translateY(40%); opacity: 0; }
+html.motion .svc-hero [data-svc-reveal] { clip-path: inset(0 0 0 100%); }
+html.motion.from-transition .svc-hero [data-svc-reveal] { clip-path: none; }
+@media (max-width: 900px) {
+  html.motion .svc-hero [data-svc-reveal] { clip-path: inset(0 0 100% 0); }
+  html.motion.from-transition .svc-hero [data-svc-reveal] { clip-path: none; }
+}
+
+/* Reduced motion — keyed to html.motion (set from prefers-reduced-motion in <head>, overridable with ?motion=) */
+html:not(.motion) *, html:not(.motion) *::before, html:not(.motion) *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .15s !important; }
+html:not(.motion) .marquee__track, html:not(.motion) .img-marquee__row { animation: none !important; }
+html:not(.motion) .img-marquee__row { flex-wrap: wrap; width: auto; justify-content: center; }
+html:not(.motion) .img-marquee__row > :nth-child(n + 6) { display: none; }
+html.js:not(.motion) .svc-hero { height: auto; }
+html.js:not(.motion) .svc-hero__pin { position: relative; }

@@ -1,0 +1,306 @@
+{
+ "_note": "Curated content for the redesign. All copy is taken from kozmetickisalonemilly.rs (see content/extracted/*.json for the verbatim page text, prices and FAQ). Only layout labels (eyebrows like 'Lice', 'Telo', '001') are editorial additions.",
+ "salon": {
+  "name": "Salon Emilly",
+  "legalName": "Kozmetički salon Emilly",
+  "owner": "Emilija Bojić",
+  "address": "Ustanička 84b, Voždovac",
+  "city": "11000 Beograd",
+  "transit": "17, 25, 25p, 26, 30, 31",
+  "phoneDisplay": "064/11-62-333",
+  "phoneIntl": "+381641162333",
+  "email": "salonemilly7@gmail.com",
+  "whatsapp": "https://wa.me/381641162333",
+  "viber": "viber://chat?number=%2B381641162333",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=44.80128175605488,20.483160981930194",
+  "mapsEmbed": "https://maps.google.com/maps?q=Kozmeticki%20salon%20Emilly%2C%20Ustanicka84B%2CBeograd&t=m&z=16&output=embed&iwloc=near",
+  "geo": [
+   44.80128175605488,
+   20.483160981930194
+  ],
+  "hours": [
+   [
+    "Ponedeljak",
+    "12:00 – 20:00"
+   ],
+   [
+    "Utorak",
+    "12:00 – 20:00"
+   ],
+   [
+    "Sreda",
+    "12:00 – 20:00"
+   ],
+   [
+    "Četvrtak",
+    "12:00 – 20:00"
+   ],
+   [
+    "Petak",
+    "12:00 – 20:00"
+   ],
+   [
+    "Subota",
+    "09:00 – 17:00"
+   ],
+   [
+    "Nedelja",
+    "Neradan dan"
+   ]
+  ],
+  "social": [
+   {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/salon_emilly_?igsh=aGI1MDV2bTRtMG9v"
+   },
+   {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/people/Kozmeti%C4%8Dki-salon-Emilly/100090186335749/"
+   },
+   {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/@salonemilly?_t=ZM-909eRut5NF6&_r=1"
+   },
+   {
+    "name": "Google",
+    "url": "https://share.google/978CIKsA9ALl62f8P"
+   }
+  ],
+  "reviewsGoogle": "https://www.google.com/search?hl=en-RS&gl=rs&q=Kozmeti%C4%8Dki+salon+Emilly,+Vojvode+%C5%A0upljikca+17,+Beograd+11000&ludocid=760287465799334787&lsig=AB86z5WlWCWEUVVKAJF9h4jI7Uxv#lrd=0x475a7b498e42a711:0xa8d156c0626bb83,1",
+  "reviewsSredime": "https://www.sredime.rs/beograd/salon-emilly#reviews-tab",
+  "googleRating": "4.9",
+  "counters": [
+   {
+    "value": 3,
+    "suffix": "+",
+    "label": "Decenije iskustva"
+   },
+   {
+    "value": 100,
+    "suffix": "+",
+    "label": "Različitih vrsta tretmana"
+   },
+   {
+    "value": 7500,
+    "suffix": "+",
+    "label": "Zadovoljnih klijenata"
+   }
+  ]
+ },
+ "services": [
+  {
+   "slug": "higijenski-tretmani-lica",
+   "name": "Higijenski tretmani lica",
+   "group": "Lice",
+   "short": "Osnovna nega lica koja dubinski čisti i hidrira kožu. Vaša koža će zablistati i dobiti prirodan, svež izgled.",
+   "image": "tretman-para",
+   "alt": "Higijenski tretman lica u salonu Emilly – nega kože uz paru",
+   "home": true
+  },
+  {
+   "slug": "ultrazvucno-ciscenje-lica",
+   "name": "Ultrazvučno čišćenje lica",
+   "group": "Lice",
+   "short": "Moderni tretmani lica koji nežno uklanjaju nečistoće i mrtve ćelije. Idealni za sve tipove kože i regeneraciju tena.",
+   "image": "tretman-ultrazvuk",
+   "alt": "Ultrazvučni tretman lica u salonu Emilly",
+   "home": true
+  },
+  {
+   "slug": "beauty-tretmani",
+   "name": "Beauty tretmani",
+   "group": "Lice",
+   "short": "Raznovrsni tretmani lepote, hidratacije i glovo efekta. Pružaju profesionalnu negu i osećaj potpune opuštenosti.",
+   "image": "tretman-maska-crna",
+   "alt": "Beauty tretman – maska za lice u salonu Emilly",
+   "home": true
+  },
+  {
+   "slug": "revitalizujuci-tretmani",
+   "name": "Revitalizujući tretmani lica",
+   "group": "Lice",
+   "short": "Revitalizujući tretmani lica u Beogradu predstavljaju profesionalne tretmane lica namenjene obnovi, hidrataciji i poboljšanju izgleda kože.",
+   "image": "tretman-derma-pen",
+   "alt": "Revitalizujući tretman lica – Derma pen u salonu Emilly",
+   "home": false
+  },
+  {
+   "slug": "lux-tretmani",
+   "name": "Lux tretmani",
+   "group": "Lice i telo",
+   "short": "Ekskluzivni paket luksuzne nege za potpuni doživljaj opuštanja. Obuhvata kombinaciju tretmana lica, masaže i pakovanja ruku koji koži vraćaju sjaj i energiju.",
+   "image": "atmosfera-kupka",
+   "alt": "Atmosfera opuštanja – Lux tretmani",
+   "home": true
+  },
+  {
+   "slug": "green-peel-tretmani",
+   "name": "Green peel tretmani",
+   "group": "Lice",
+   "short": "Napredni tretmani za regeneraciju i osvežavanje kože. Idealni za obnovu tena i postizanje mladalačkog sjaja.",
+   "image": "tretman-green-peel",
+   "alt": "Green peel tretman u salonu Emilly",
+   "home": true
+  },
+  {
+   "slug": "higijenski-tretmani-ledja",
+   "name": "Higijenski tretmani leđa",
+   "group": "Telo",
+   "short": "Specijalna nega leđa koja čisti i neguje kožu dubinski. Uključuje tretmane koji osvežavaju, omekšavaju i vraćaju koži zdrav izgled.",
+   "image": "tretman-ledja",
+   "alt": "Higijenski tretman leđa u salonu Emilly",
+   "home": true
+  },
+  {
+   "slug": "dodaci-tretmanima",
+   "name": "Dodatak tretmanima",
+   "group": "Lice",
+   "short": "U ponudi su masaže lica, lifting masaža, limfna drenaža lica, ampule, alginatne i kolagen maske, LED svetlosna terapija, Oxygen, mikrodermoabrazija i drugi dodaci.",
+   "image": "atmosfera-maska",
+   "alt": "Maska i masaža lica kao dodatak tretmanu",
+   "home": false
+  },
+  {
+   "slug": "masaze",
+   "name": "Masaže",
+   "group": "Telo",
+   "short": "Raznovrsne masaže za opuštanje i revitalizaciju tela. Obuhvataju različite tehnike za oslobađanje napetosti i stresova.",
+   "image": "salon-kamenje",
+   "alt": "Vulkansko kamenje za masažu u salonu Emilly",
+   "home": true
+  },
+  {
+   "slug": "madero-masaze",
+   "name": "Madero masaže",
+   "group": "Telo",
+   "short": "Madero masaže u Beogradu predstavljaju tehniku masaže koja se izvodi pomoću posebno oblikovanih drvenih alata.",
+   "image": "emilija-madero",
+   "alt": "Emilija Bojić sa drvenim alatima za madero masažu",
+   "home": false
+  },
+  {
+   "slug": "anticelulit-masaze",
+   "name": "Anticelulit program",
+   "group": "Telo",
+   "altName": "Anticelulit masaže",
+   "short": "Ciljani tretmani za poboljšanje izgleda kože i smanjenje celulita. Uključuje više metoda oblikovanja tela i učvršćivanja kože.",
+   "image": "tretman-pinda",
+   "alt": "Pinda sweda – priprema za tretman tela u salonu Emilly",
+   "home": true,
+   "results": [
+    {
+     "image": "anticelulit-rezultat-1",
+     "alt": "Pre i posle – anticelulit program u salonu Emilly (fotografija iz galerije salona)"
+    },
+    {
+     "image": "anticelulit-rezultat-2",
+     "alt": "Pre i posle – anticelulit program u salonu Emilly (fotografija iz galerije salona)"
+    }
+   ]
+  }
+ ],
+ "home": {
+  "h1Small": "Kozmetički salon u Beogradu",
+  "h1Large": "Salon Emilly",
+  "tagline": "U salonu Emilly negu posmatramo kao ritual lepote i zdravlja.",
+  "quote": "U kozmetičkom salonu Emilly verujemo da je nega kože više od rutine – to je ritual lepote i brige o sebi.",
+  "marquee": [
+   "Salon Emilly",
+   "Ritual lepote i zdravlja",
+   "Nega lica",
+   "Nega tela",
+   "Voždovac · Beograd"
+  ]
+ },
+ "about": {
+  "statement": "Nega kao ritual lepote i zdravlja",
+  "brands": [
+   {
+    "name": "Dr. med. Christine Schrammek – Green Peel",
+    "origin": "Nemačka"
+   },
+   {
+    "name": "Ericson Laboratorie",
+    "origin": "Pariz"
+   },
+   {
+    "name": "Biodroga",
+    "origin": "Nemačka"
+   },
+   {
+    "name": "Physio Natura",
+    "origin": "Italija"
+   },
+   {
+    "name": "MCCM Medical Cosmetic",
+    "origin": "Španija"
+   },
+   {
+    "name": "Esthemax",
+    "origin": "SAD"
+   }
+  ],
+  "awards": [
+   "Factor Estetic nagrada za izuzetne rezultate u tretmanima problematične i aknozne kože",
+   "Višegodišnje priznanje Top salon na platformi Sredi me, na osnovu najboljih ocena i recenzija zadovoljnih klijenata."
+  ]
+ },
+ "gallery": [
+  "66205",
+  "24",
+  "19",
+  "16",
+  "20",
+  "4",
+  "23",
+  "17",
+  "21",
+  "14",
+  "12",
+  "15",
+  "71422",
+  "68380",
+  "77103",
+  "74942",
+  "10",
+  "65332",
+  "8",
+  "34",
+  "9",
+  "11",
+  "3",
+  "6",
+  "1",
+  "69373",
+  "13",
+  "33",
+  "22",
+  "18",
+  "5",
+  "7",
+  "65715",
+  "27",
+  "32",
+  "26"
+ ],
+ "locations": [
+  {
+   "slug": "kozmeticki-salon-vozdovac",
+   "name": "Voždovac",
+   "image": "izlog-salona",
+   "imageAlt": "Izlog kozmetičkog salona Emilly u Ustaničkoj 84b"
+  },
+  {
+   "slug": "kozmeticki-salon-dusanovac",
+   "name": "Dušanovac",
+   "image": "emilija-salon",
+   "imageAlt": "Emilija Bojić na recepciji salona Emilly"
+  },
+  {
+   "slug": "kozmeticki-salon-sumice",
+   "name": "Šumice",
+   "image": "salon-kamenje",
+   "imageAlt": "Enterijer salona Emilly"
+  }
+ ]
+}

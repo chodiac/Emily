@@ -1,0 +1,188 @@
+{
+ "slug": "beauty-tretmani",
+ "meta": {
+  "title": "Beauty Tretmani Beograd - Salon Emilly",
+  "description": "Beauty tretmani u Beogradu za hidrataciju, osvežavanje i blistaviji izgled kože. Profesionalna nega prilagođena potrebama vaše kože u Salon Emilly."
+ },
+ "headerTitle": "Beauty tretmani u Beogradu",
+ "faq": [
+  {
+   "q": "Koliko traje Beauty tretman?",
+   "a": "Trajanje zavisi od vrste odabranog Beauty tretmana i procedura koje su uključene. Prilikom zakazivanja možete dobiti informacije o trajanju konkretne opcije."
+  },
+  {
+   "q": "Koliko često se mogu raditi Beauty tretmani?",
+   "a": "Učestalost zavisi od vrste tretmana, tipa kože i njenih trenutnih potreba. Preporučeni raspored može se prilagoditi individualnom stanju kože."
+  },
+  {
+   "q": "Kolika je cena Beauty tretmana?",
+   "a": "Cena zavisi od vrste i sadržaja odabranog tretmana. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  }
+ ],
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "Šta su Beauty tretmani?"
+  },
+  {
+   "t": "p",
+   "text": "Beauty tretmani u Beogradu predstavljaju profesionalnu negu kože usmerenu na hidrataciju, osvežavanje i poboljšanje izgleda tena. U zavisnosti od odabrane procedure, tretman može biti usmeren na dodatnu hidrataciju kože, vraćanje svežine i postizanje blistavijeg i negovanijeg izgleda."
+  },
+  {
+   "t": "p",
+   "text": "U Salonu Emilly Beauty tretmani se prilagođavaju tipu i trenutnom stanju kože, kao i efektu koji želite da postignete. Mogu biti dobar izbor kada koža deluje umorno, dehidrirano ili joj je potrebna dodatna nega i osveženje."
+  },
+  {
+   "t": "h2",
+   "text": "Kako izgleda Beauty tretman?"
+  },
+  {
+   "t": "p",
+   "text": "Tretman počinje pripremom i čišćenjem kože, nakon čega se primenjuje odabrana procedura u skladu sa potrebama kože. U zavisnosti od vrste tretmana, mogu se koristiti različiti preparati i tehnike namenjene hidrataciji, osvežavanju i poboljšanju izgleda kože."
+  },
+  {
+   "t": "p",
+   "text": "Beauty tretmani mogu se prilagoditi različitim potrebama kože i kombinovati sa drugim procedurama iz ponude. Za dubinsko čišćenje možete pogledati [higijenske tretmane lica](/higijenski-tretmani-lica/), dok je za nežnije uklanjanje nečistoća i osvežavanje kože dostupno i [ultrazvučno čišćenje lica](/ultrazvucno-ciscenje-lica/)."
+  },
+  {
+   "t": "h2",
+   "text": "Kome su namenjeni Beauty tretmani?"
+  },
+  {
+   "t": "p",
+   "text": "Beauty tretmani mogu odgovarati osobama koje žele dodatnu negu, hidrataciju i svežiji izgled kože. Mogu biti posebno pogodni kada je koža dehidrirana, umorna ili joj je potreban dodatni podsticaj za blistaviji i negovaniji izgled."
+  },
+  {
+   "t": "p",
+   "text": "Izbor odgovarajućeg tretmana zavisi od tipa i trenutnog stanja kože, kao i od željenog efekta. Zato se tretman može prilagoditi individualnim potrebama kako bi nega bila što prijatnija i odgovarajuća za kožu."
+  },
+  {
+   "t": "h2",
+   "text": "Kakve rezultate možete očekivati?"
+  },
+  {
+   "t": "p",
+   "text": "Nakon Beauty tretmana koža može izgledati svežije, hidriranije i blistavije, uz prijatan osećaj mekoće i negovanosti. U zavisnosti od odabrane procedure, tretman može doprineti ujednačenijem izgledu tena i pružiti koži dodatnu negu."
+  },
+  {
+   "t": "p",
+   "text": "U okviru ponude našeg [kozmetičkog salona na Voždovcu](/kozmeticki-salon-vozdovac/) možete izabrati Beauty tretman prema potrebama svoje kože. Za pregled kompletne ponude dostupnih tretmana pogledajte [kozmetički salon Beograd](/)."
+  },
+  {
+   "t": "h3",
+   "text": "Beauty tretmani u ponudi:"
+  },
+  {
+   "t": "price-title",
+   "text": "Biološki tretman"
+  },
+  {
+   "t": "price",
+   "text": "4500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Skin boosters"
+  },
+  {
+   "t": "price",
+   "text": "8000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Juliette Armand Chronos Therapy"
+  },
+  {
+   "t": "price",
+   "text": "7500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Pur Oxygen Ericson"
+  },
+  {
+   "t": "price",
+   "text": "6000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Hydra Advenced Ericson"
+  },
+  {
+   "t": "price",
+   "text": "6500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Vitamin Energy Ericson"
+  },
+  {
+   "t": "price",
+   "text": "7500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Perfect Ericson"
+  },
+  {
+   "t": "price",
+   "text": "8000 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Biologic Defense Ericson"
+  },
+  {
+   "t": "price",
+   "text": "5500 rsd"
+  },
+  {
+   "t": "price-title",
+   "text": "Oxygen tretman"
+  },
+  {
+   "t": "price",
+   "text": "5000 rsd"
+  },
+  {
+   "t": "h2",
+   "text": "Često postavljana pitanja"
+  },
+  {
+   "t": "p",
+   "text": "Trajanje zavisi od vrste odabranog Beauty tretmana i procedura koje su uključene. Prilikom zakazivanja možete dobiti informacije o trajanju konkretne opcije."
+  },
+  {
+   "t": "p",
+   "text": "Učestalost zavisi od vrste tretmana, tipa kože i njenih trenutnih potreba. Preporučeni raspored može se prilagoditi individualnom stanju kože."
+  },
+  {
+   "t": "p",
+   "text": "Cena zavisi od vrste i sadržaja odabranog tretmana. Prilikom zakazivanja možete dobiti informacije o dostupnim opcijama i aktuelnim cenama."
+  },
+  {
+   "t": "h4",
+   "text": "Naše usluge"
+  },
+  {
+   "t": "h4",
+   "text": "Kontakt"
+  },
+  {
+   "t": "h4",
+   "text": "Radno vreme"
+  },
+  {
+   "t": "p",
+   "text": "Copyright © 2025 Kozmetički salon Emilly – All rights reserved | Website by [Strahinja Bukvić](mailto:strahinja.it@gmail.com)"
+  },
+  {
+   "t": "p",
+   "text": "Username or email *"
+  },
+  {
+   "t": "p",
+   "text": "Password *"
+  }
+ ]
+}
