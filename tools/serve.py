@@ -1,4 +1,4 @@
-"""Local preview server for ./site with clean URLs and the 404 page.
+"""Local preview server for the site (project root) with clean URLs and the 404 page.
 
     python tools/serve.py [port]      (default 5184) → http://localhost:5184/
 Dev flags: ?motion=full (force animations even if the OS asks for reduced motion),
@@ -11,7 +11,7 @@ import socketserver
 import sys
 from pathlib import Path
 
-SITE = Path(__file__).resolve().parent.parent / "site"
+SITE = Path(__file__).resolve().parent.parent
 
 
 class Handler(http.server.SimpleHTTPRequestHandler):

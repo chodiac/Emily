@@ -2,7 +2,7 @@
 
 Run from the project root:  python tools/optimize_images.py
 Originals live in source-assets/original-images (downloaded from kozmetickisalonemilly.rs).
-Output: site/assets/img/<name>-<width>.webp  (+ a manifest used by build.py for width/height).
+Output: assets/img/<name>-<width>.webp  (+ a manifest used by build.py for width/height).
 """
 import json
 from pathlib import Path
@@ -10,7 +10,7 @@ from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source-assets" / "original-images"
-OUT = ROOT / "site" / "assets" / "img"
+OUT = ROOT / "assets" / "img"
 OUT.mkdir(parents=True, exist_ok=True)
 
 # semantic name -> original file
