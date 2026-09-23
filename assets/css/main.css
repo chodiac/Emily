@@ -289,6 +289,9 @@ html.menu-open .burger__mid2 { transform: rotate(-45deg); transition-delay: .15s
 .footer__word span { display: inline-block; }
 .footer__legal { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; font-size: var(--fs-xs); letter-spacing: .08em; opacity: .7; padding-top: 1.4rem; border-top: 1px solid var(--line-light); }
 
+.motion-toggle { font-size: var(--fs-xs); letter-spacing: .08em; opacity: .85; border-bottom: 1px solid currentColor; padding: .2rem 0; }
+.motion-toggle:hover { color: var(--gold); }
+
 /* ---------- Cursor label (desktop, drag areas only) ---------- */
 .cursor {
   position: fixed; left: 0; top: 0; z-index: 120; pointer-events: none;

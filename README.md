@@ -32,5 +32,5 @@ python tools/serve.py              # lokalni pregled na http://localhost:5184/
 ```
 
 Razvojne opcije u adresi:
-- `?motion=full` / `?motion=reduce` — nameće pun ili smanjen prikaz animacija. Izbor se pamti.
+- Animacije su uvek uključene. Posetilac ih može isključiti prekidačem „Animacije“ u footeru (izbor se pamti), a isto radi i `?motion=reduce`.
 - `&raw` — isključuje Lenis (obično skrolovanje).

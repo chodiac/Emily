@@ -7,7 +7,7 @@ SITE_URL = "https://kozmetickisalonemilly.rs"
 # Runs before paint: sets js/motion flags, first-visit loader and page-entry state, with a safety timeout.
 BOOT = """<script>(function(d){var h=d.documentElement;h.classList.replace('no-js','js');
 var q=location.search,m=null;try{m=(q.match(/[?&]motion=(full|reduce)/)||[])[1]||null;if(m)localStorage.setItem('emilly-motion',m);else m=localStorage.getItem('emilly-motion');}catch(e){}
-if(m==='full'||(m!=='reduce'&&!matchMedia('(prefers-reduced-motion: reduce)').matches)){h.classList.add('motion');}
+if(m!=='reduce'){h.classList.add('motion');}
 if(/[?&]raw(&|$)/.test(q))h.classList.add('raw-scroll');
 try{if(!sessionStorage.getItem('emilly:visited')&&h.classList.contains('motion'))h.classList.add('is-loading');
 if(sessionStorage.getItem('emilly:transition'))h.classList.add('is-entering');}catch(e){}
@@ -135,7 +135,9 @@ def footer(site):
     <div><h2 class="footer__h">Radno vreme</h2><ul class="hours" data-hours>{hours}</ul></div>
   </div>
   <div class="footer__word" aria-hidden="true"><span data-footer-word>Emilly</span></div>
-  <div class="footer__legal"><p>© <span data-year>2026</span> Kozmetički salon Emilly – Sva prava zadržana</p><a href="#top" data-scroll-top>Nazad na vrh ↑</a></div>
+  <div class="footer__legal"><p>© <span data-year>2026</span> Kozmetički salon Emilly – Sva prava zadržana</p>
+    <button class="motion-toggle" type="button" data-motion-toggle aria-pressed="true">Animacije: <span data-motion-state>uključene</span></button>
+    <a href="#top" data-scroll-top>Nazad na vrh ↑</a></div>
 </footer>"""
 
 

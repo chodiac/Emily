@@ -9,6 +9,7 @@ export function initUI() {
   mapLoader();
   hours();
   cursor();
+  motionToggle();
   $$('[data-year]').forEach((el) => { el.textContent = new Date().getFullYear(); });
 }
 
@@ -238,5 +239,21 @@ function cursor() {
   $$('[data-cursor]').forEach((area) => {
     area.addEventListener('pointerenter', () => { label.textContent = area.dataset.cursor; c.classList.add('is-on'); });
     area.addEventListener('pointerleave', () => c.classList.remove('is-on'));
+  });
+}
+
+/* Animations are on by default; visitors who prefer less motion can switch them off (remembered) */
+function motionToggle() {
+  const on = document.documentElement.classList.contains('motion');
+  $$('[data-motion-toggle]').forEach((btn) => {
+    btn.setAttribute('aria-pressed', String(on));
+    const state = btn.querySelector('[data-motion-state]');
+    if (state) state.textContent = on ? 'uključene' : 'isključene';
+    btn.addEventListener('click', () => {
+      try { localStorage.setItem('emilly-motion', on ? 'reduce' : 'full'); } catch (e) { /* private mode */ }
+      const url = new URL(location.href);
+      url.searchParams.delete('motion');
+      location.replace(url.href);
+    });
   });
 }
